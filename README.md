@@ -1,3 +1,3 @@
 # Python Basico
 
-Curso Básico de Python para principiantes
+Curso Básico de Python para principiantes.
