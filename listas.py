@@ -40,7 +40,7 @@ print(datos)
 
 # %%
 data1 = [2, "david", 5.88]
-data2 = ["alejandra", "jaiross", "oscar"]
+data2 = ["alejandra", "jairito", "oscar"]
 data3 = data1+data2
 print(data3)
 
