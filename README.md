@@ -2,4 +2,4 @@
 
 Curso Básico de Python para principiantes.
 [MTuplas](./Tuplas.py)
-[Mlistas](./listas.py)
+[Manejo de listas](./listas.py)
