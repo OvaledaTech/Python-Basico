@@ -1,5 +1,5 @@
 # %% [markdown]
-# CALCULADORA
+# PROGRAMA QUE EJECUTA LA CALCULADORA
 # %% [markdown]
 # ** SUMA**
 # %%
